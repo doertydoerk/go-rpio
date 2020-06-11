@@ -1,0 +1,4 @@
+github.com/doertydoerk/go-rpio v4.2.0+incompatible h1:JNicHYWZCYp4IUfYoqb51bO75QhqZpLzbwz1DcJgmh8=
+github.com/doertydoerk/go-rpio v4.2.0+incompatible/go.mod h1:19I2AZOUQ4vx9iYfsUbQr4GfCWE0XeVzrcZ/txV/j8g=
+github.com/stianeikeland/go-rpio v4.2.0+incompatible h1:CUOlIxdJdT+H1obJPsmg8byu7jMSECLfAN9zynm5QGo=
+github.com/stianeikeland/go-rpio v4.2.0+incompatible/go.mod h1:Sh81rdJwD96E2wja2Gd7rrKM+XZ9LrwvN2w4IXrqLR8=
